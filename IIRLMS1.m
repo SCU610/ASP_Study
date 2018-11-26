@@ -1,4 +1,6 @@
-﻿clear;
+﻿%% This is a test .m file
+
+clear;
 clc;
 %IIR-LMS
 k=800;
