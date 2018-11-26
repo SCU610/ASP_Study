@@ -1,4 +1,5 @@
-clear;
+﻿clear;
+clc;
 %IIR-LMS
 k=800;
 wk=zeros(3,k);
